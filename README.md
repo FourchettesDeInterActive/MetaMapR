@@ -1,6 +1,7 @@
+![](https://raw.githubusercontent.com/dgrapov/MetaMapR/gh-pages/images/white_logo.jpg)
+
 [MetaMapR](http://dgrapov.github.io/MetaMapR/) 
 ========
-
 ## A metabolomic network mapping tool 
 ![demo](Manual/metamapr_long.gif)
 
